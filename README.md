@@ -20,7 +20,7 @@ The architecture includes:
 - **Terraform** for networking setup
 - **GitHub Integration** for version control and CI/CD via GitHub Actions
 
-See the [Architecture Diagram] for a visual layout.
+See the [Architecture Diagram] Architecture Diagram.png for a visual layout.
 
 
 ## Repository Structure
